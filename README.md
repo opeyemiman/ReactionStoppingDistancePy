@@ -1,4 +1,4 @@
-# ogop-prt-stopping
+# ReactionStoppingDistancePy
 
 # Binders (Incognito Recommended)
 
